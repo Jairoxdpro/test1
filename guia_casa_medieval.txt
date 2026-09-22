@@ -1,0 +1,43 @@
+# 🏠 Casa Medieval Bonita - Minecraft Java 26.2
+# ============================================
+# Chaos Cubed (DataVersion 4903)
+#
+# Incluye bloques nuevos de 26.2:
+# - Cinnabar (cinabrio): chimenea, detalles rojos
+# - Sulfur (azufre): decoración amarilla, mesitas
+# - Cushion (cojín): asientos cómodos
+# - Straw Bed (cama de paja): dormitorio
+# - Golden Dandelion: flor dorada en el jardín
+#
+## USO CON BLOQUE DE ESTRUCTURA:
+# 1. Copia medieval_house.nbt a:
+#    .minecraft/saves/<tu_mundo>/generated/minecraft/structures/
+# 2. /give @s structure_block
+# 3. Modo "Cargar" → "medieval_house" → Cargar → Generar
+#
+## USO CON WORLDEDIT:
+# 1. Copia medieval_house.schematic a:
+#    .minecraft/config/worldedit/schematics/
+# 2. //schem load medieval_house
+# 3. //paste
+#
+## CARACTERÍSTICAS:
+# • 2 pisos completamente amueblados
+# • Chimenea de cinnabar bricks con fogata
+# • Tejado a dos aguas con cumbrera de cinnabar
+# • Fajas decorativas de polished sulfur y cinnabar
+# • Cojines (cushions) junto a la chimenea
+# • Cama de paja (straw bed) en el dormitorio
+# • Mesitas de noche de sulfur slab
+# • Escalón de entrada de cinnabar
+# • Jardín con golden dandelion
+# • Ventanas de cristal en ambos pisos
+# • Escalera interior, linternas, barriles, cofres
+#
+## MATERIALES:
+# Estructura: Cobblestone, Stone Bricks, Oak/Dark Oak Planks
+# Decoración 26.2: Cinnabar Bricks, Polished Sulfur, Chiseled Cinnabar
+# Madera: Oak Log, Spruce Planks, Stripped Oak Log
+# Tejado: Spruce Stairs, Cinnabar Slab (cumbrera)
+# Interior: Cushion, Straw Bed, Barrel, Bookshelf, Lantern
+# Jardín: Grass, Gravel, Flowers, Golden Dandelion, Fence
